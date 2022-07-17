@@ -2,9 +2,9 @@
 ![](BHP_website.PNG)
 
 # Steps involved 
-1.Building model using sklearn and linear regression using bangalore home prices dataset from kaggle.com
-2.Writing a python flask server that uses the saved model to serve http requests
-3.Building website in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price
+1. Building model using sklearn and linear regression using bangalore home prices dataset from kaggle.com
+2. Writing a python flask server that uses the saved model to serve http requests
+3. Building website in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price
 
 
 # Technology and tools used in this project
